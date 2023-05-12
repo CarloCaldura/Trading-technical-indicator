@@ -1,4 +1,5 @@
-#Stochastic and Bollinger Bands Indicator
+# Stochastic and Bollinger Bands Indicator
+
 This repository contains a script written in Pine Script for TradingView. The script calculates and displays the Stochastic oscillator along with Bollinger Bands on a chart. It can be used to identify potential buy and sell signals based on overbought and oversold conditions.
 
 Features
